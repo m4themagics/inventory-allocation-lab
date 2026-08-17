@@ -1,0 +1,44 @@
+# Final values are filled from the preregistration before the corresponding run.
+# Null is intentional: an unset research decision must fail rather than become a default.
+
+data:
+  source_revision: null
+  department: null
+  item_count: null
+  minimum_train_weeks: 104
+  validation_weeks: 13
+  rolling_test_weeks: 26
+  fingerprint: null
+
+cohort:
+  minimum_items: 50
+  minimum_nonzero_train_week_share: 0.60
+  minimum_validation_stores: 8
+
+operational_layer:
+  scarcity_ratios: [0.6, 0.8, 1.0, 1.2]
+  initial_inventory_rule: null
+  case_pack_rule: null
+  store_capacity_rule: null
+  receiving_capacity_rule: null
+  shipment_cost_rule: null
+  holding_cost_rule: null
+  shortage_cost_rule: null
+
+forecast:
+  horizon_weeks: 1
+  seasonal_lag_weeks: null
+  scenario_count: null
+  residual_block_length: null
+
+backtest:
+  test_weeks: 26
+  bootstrap_repetitions: null
+  bootstrap_block_length: null
+  seed: null
+
+solver:
+  name: highs
+  time_limit_s: null
+  relative_gap: null
+  threads: null

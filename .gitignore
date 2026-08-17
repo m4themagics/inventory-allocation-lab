@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+
+# Downloaded M5 data and derived tables are reproducible, not versioned.
+data/raw/
+data/processed/
+
+# Full run payloads can be large. Curated reports remain tracked.
+artifacts/
+reports/*/runs/
