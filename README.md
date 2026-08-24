@@ -1,5 +1,9 @@
 # Inventory Allocation Lab
 
+> **Archived on 2026-08-24.** The preregistered idea and complete git history are retained,
+> but the project is outside the current Search/Ranking and Streaming/ML Data portfolio paths.
+> No model, optimiser, or empirical result was completed before archival.
+
 [![ci](https://github.com/m4themagics/inventory-allocation-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/m4themagics/inventory-allocation-lab/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.12-blue)](pyproject.toml)
 [![ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -68,7 +72,7 @@ never evaluated from the state created by another.
 
 ## Status
 
-**Week 0 — dataset and decision-problem viability.** Pass criteria are drafted; the dataset
+**Archived at Week 0 — dataset and decision-problem viability.** Pass criteria are drafted; the dataset
 slice and operational rules still need to be preregistered. No loader, model or optimiser
 yet. The full schedule is in the [development plan](docs/development-plan.md).
 
