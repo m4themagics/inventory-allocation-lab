@@ -1,8 +1,9 @@
 # Inventory Allocation Lab
 
-> **Portfolio status · 2026-08-25: ARCHIVED, 0 active h/week.** The preregistered idea and complete git history are retained,
-> but the project is outside the current Search/Ranking and Streaming/ML Data portfolio paths.
-> No model, optimiser, or empirical result was completed before archival.
+> **Portfolio status · 2026-08-25: PAUSED, 0 active h/week.** The preregistered idea and
+> complete git history are retained, but the project is outside the current Search/Ranking
+> and Streaming/ML Data portfolio paths. It resumes only after a separate career decision.
+> No model, optimiser, or empirical result was completed before the pause.
 
 [![ci](https://github.com/m4themagics/inventory-allocation-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/m4themagics/inventory-allocation-lab/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.12-blue)](pyproject.toml)
@@ -72,7 +73,7 @@ never evaluated from the state created by another.
 
 ## Status
 
-**Archived at Week 0 — dataset and decision-problem viability.** Pass criteria are drafted; the dataset
+**Paused at Week 0 — dataset and decision-problem viability.** Pass criteria are drafted; the dataset
 slice and operational rules still need to be preregistered. No loader, model or optimiser
 yet. The full schedule is in the [development plan](docs/development-plan.md).
 
