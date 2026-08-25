@@ -1,6 +1,6 @@
 # Inventory Allocation Lab
 
-> **Archived on 2026-08-24.** The preregistered idea and complete git history are retained,
+> **Portfolio status · 2026-08-25: ARCHIVED, 0 active h/week.** The preregistered idea and complete git history are retained,
 > but the project is outside the current Search/Ranking and Streaming/ML Data portfolio paths.
 > No model, optimiser, or empirical result was completed before archival.
 
